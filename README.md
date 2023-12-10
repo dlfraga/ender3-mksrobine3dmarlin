@@ -1,4 +1,4 @@
-# ender3-mksrobine3dmarlin
+# Ender3 Mks robin e3d 1.0 Marlin 2.1
 Marlin 2.1.2.1 adapted to work with MKS ROBIN E3D 1.0.  
 Features enabled:  
 * Bltouch  
