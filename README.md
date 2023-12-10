@@ -1,5 +1,6 @@
 # ender3-mksrobine3dmarlin
-Marlin 2.1.2.1 adapted to work with MKS ROBIN E3D 1.0. Features enabled:  
+Marlin 2.1.2.1 adapted to work with MKS ROBIN E3D 1.0.  
+Features enabled:  
 * Bltouch  
 * Host commands  
 * Bilinear Bed leveling  
